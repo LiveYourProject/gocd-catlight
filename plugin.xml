@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="com.liveyourproject.gocd.catlight" version="1">
+    <about>
+        <name>Catlight Extension</name>
+        <version>0.1.0</version>
+        <target-go-version>12.4</target-go-version>
+        <description></description>
+        <vendor>
+            <name>Live Your Project</name>
+            <url>https://liveyourproject.com/</url>
+        </vendor>
+    </about>
+</go-plugin>
